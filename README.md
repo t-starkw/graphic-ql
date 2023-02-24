@@ -15,14 +15,15 @@
 ![Heroku][heroku-url]
 
 
-![](header.png)
+![Image](https://drive.google.com/uc?export=view&id=1tavtS08f-7WVQNws899sJl9xHCPR6b7v)
+
 
 ## Installation
 
 Clone the repository:
 
 ```sh
-git clone repo-url
+git clone git@github.com:t-starkw/graphic-ql.git
 ```
 
 Install the required dependencies:
@@ -42,15 +43,16 @@ npm run develop
 Browse for books by title or author using the search bar on the main page. You must log in or create an account in order to save books to your collection. You can view and edit your collection by selecting the 'Saved Books" navigation item.
 
 ## Deplopyed Application
-
+You can view the live application
+[here](https://graphic-ql.herokuapp.com/)
 
 ## Meta
 
 Tessa Starkweather – [LinkedIn](https://www.linkedin.com/in/tessa-starkweather-b61941200/) – tess.starkweather@gmail.com
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+View my profile – [GitHub](https://github.com/t-starkw)
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 

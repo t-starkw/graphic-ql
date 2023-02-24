@@ -42,7 +42,7 @@ npm run develop
 
 Browse for books by title or author using the search bar on the main page. You must log in or create an account in order to save books to your collection. You can view and edit your collection by selecting the 'Saved Books" navigation item.
 
-## Deplopyed Application
+## Deployed Application
 You can view the live application
 [here](https://graphic-ql.herokuapp.com/)
 
